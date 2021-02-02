@@ -1,0 +1,11 @@
+{
+  "name": "miniport",
+  "version": "1.0.0",
+  "description": "A responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "echo \"Hello from sass script\""
+  },
+  "author": "Rick Carter",
+  "license": "MIT"
+}
